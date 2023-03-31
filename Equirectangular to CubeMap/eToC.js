@@ -1,7 +1,6 @@
 // 1. create 6 images from the equirectangular map
 // 2. apply them on a cube
 
-
 // ------------------------- create 6 images from the equirectangular map --------------------------- // 
 // reference : https://github.com/thomcc/equirect-to-cubemap-faces/blob/master/index.js
 var equirectToCubemapFaces = (function() {
